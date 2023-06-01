@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\NodeJs"
+		},
+		{
+			"path": "..\\tailwindCdn"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "tailwindCdn"
+	}
+}
